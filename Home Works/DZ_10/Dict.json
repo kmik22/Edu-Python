@@ -1,0 +1,13 @@
+[
+    {
+        "type": "rabbit",
+        "name": "Katia",
+        "m": 2
+    },
+    {
+        "type": "lion",
+        "name": "Grisha",
+        "m": 21,
+        "is_alive": true
+    }
+]

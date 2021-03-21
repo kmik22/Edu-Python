@@ -1,0 +1,3 @@
+#EVERYTHING IN A SINGLE LINE
+#PS Because of the difference in default tab size, open file in "PyCharm"
+print('\t\t\t\t\t\t$\n\t\t\t\t\t\t~\n\t\t\t\t\t   OOO\n\t\t\t\t\t  ~~~OO\n\t\t\t\t\t ------O\n\t\t\t\t\tOOO~~~~~~\n\t\t\t\t   ---OOO-----\n\t\t\t\t  ~~~~~~OOO~~~~\n\t\t\t\t ---------OOO---\n\t\t\t\t~~~~~~~~~~~~OOO~~\n\t\t\t   ---------------OOO-\n\t\t\t  ~~~~~~~~~~~~~~~~~~OOO\n\t\t\t ----------2021-------OO\n\t\t\t~~~~~~~~~~~~~~~~~~~~~~~~O\n\t\t   OOO------------------------\n\t\t  ~~~OOO~~~~~~~~~~~~~~~~~~~~~~~\n\t\t ------OOO----------------------\n\t\t~~~~~~~~~OOO~~~~~~~~~~~~~~~~~~~~~\n\t   ------------OOO--------------------\n\t  ~~~~~~~~~~~~~~~OOO~~~~~~~~~~~~~~~~~~~\n\t ------------------OOO------------------\n\t                    #')
