@@ -26,4 +26,3 @@ h2 = Human('Alice', False, [9, 12, 1998], 12450)
 
 print(h1.age)
 print(h2.age)
-
